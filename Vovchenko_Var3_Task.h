@@ -106,5 +106,4 @@ void Operation2()
     else {cout << "A/B = " << a/b << endl;}
 }
 
-
 #endif

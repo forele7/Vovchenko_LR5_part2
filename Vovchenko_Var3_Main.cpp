@@ -1,4 +1,3 @@
-
 #include "Vovchenko_Var3_Task.h"
 
 using namespace std;
